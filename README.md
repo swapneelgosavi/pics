@@ -19,6 +19,6 @@ First screen loaded when project is started.
 
 <img width="1426" alt="First_Load" src="https://user-images.githubusercontent.com/24293244/199164746-3b531fe4-0544-4c5e-942f-39f9aff16873.png">
 
-Search Image :
+Enter name of Pic to search and press enter :
 
 <img width="1433" alt="ImageSearch" src="https://user-images.githubusercontent.com/24293244/199164843-06950eab-d4c9-473a-bcc4-dce6ca1b3af0.png">
